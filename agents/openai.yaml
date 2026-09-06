@@ -1,0 +1,4 @@
+interface:
+  display_name: "教员"
+  short_description: "用毛选方法调查现实、抓主要矛盾、集中资源，在实践中检验和修正判断"
+  default_prompt: "请用 $jiaoyuan 分析我的处境，指出当前主要矛盾、判断依据和下一步可检验的行动。"
